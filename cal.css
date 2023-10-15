@@ -1,6 +1,6 @@
 
 .background{
-    background-image:url("images/Calculator_back_img2.jpg");
+    background-image:url("/images/Calculator_back_img2.jpg");
     position: relative;
     backface-visibility:inherit;
     scroll-behavior: smooth;
